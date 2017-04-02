@@ -22,3 +22,8 @@ with generated messages from commands
 like git merge.
 
 
+###emoji
+[link](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
+:point_up::point_up::point_up::point_up::point_up:
+
