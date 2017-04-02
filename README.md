@@ -2,12 +2,12 @@
  [MarkDown Guide](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 
-###git file endings error resolver
+### git file endings error resolver
 ```git config --global core.autocrlf true```
 
 
 
-#WRITE GOOD COMMIT MESSAGES
+# WRITE GOOD COMMIT MESSAGES
 Begin your message with a short summary of
 your changes (up to 50 characters as a guideline). Separate it from the following body
 by including a blank line. The body of your
